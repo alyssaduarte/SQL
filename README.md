@@ -3,34 +3,21 @@
 
 Take a look around -- hope you find something interesting!
 
-## 🚀 About Me  
-- 📊 **Data & Analytics** | SQL | Tableau | Excel  
-- 🏥 **Healthcare & Psychology** | Patient Data | Behavioral Insights  
-- 🎯 **Marketing Analytics** | Social Media Insights | Google Analytics  
-- 🔍 **Problem Solver** | Transforming raw data into actionable strategies  
+## 🚀 About Me    
+- 👩🏽‍🎓 Education | Bachelors of Health Sciences with a minor in Psychology
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
 
----
-
-## 🛠️ Tools & Skills  
-| Skill | Tools |  
-|--------|---------|  
-| **SQL** | MySQL, PostgreSQL |  
-| **Data Visualization** | Tableau, Excel |  
-| **Healthcare Analytics** | Patient Trends, Operational Insights |  
-| **Marketing Analytics** | Social Media, Google Analytics |  
-
----
-
-## 🔥 Featured Projects  
-### 🏥 **Healthcare Utilization Dashboard**  
-**Tech:** SQL, Tableau  
-- Analyzed patient data to identify trends in hospital admissions.  
-- Built an interactive dashboard to track patient demographics and service utilization.  
-
-### 📊 **Social Media Engagement Analysis**  
-**Tech:** SQL, Excel  
-- Evaluated marketing campaigns and their impact on engagement.  
-- Provided data-driven recommendations to improve outreach strategies.  
+  ## 🛠️ Tools & Skills  
+| Skill | Tools | 
+| **Data & Analytics** | SQL | Tableau |
+| **Data Visualization** | Tableau, Excel | 
+| **Marketing Analytics** | Social Media Insights | Google Analytics | 
+| **Problem Solver** | Transforming raw data into actionable strategies  
 
 ---
 
@@ -44,15 +31,3 @@ Take a look around -- hope you find something interesting!
 
 <!--
 **alyssaduarte/alyssaduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
