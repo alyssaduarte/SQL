@@ -13,11 +13,12 @@ Take a look around -- hope you find something interesting!
 - ⚡ Fun fact: ...
 
   ## 🛠️ Tools & Skills  
-| Skill | Tools | 
-| **Data & Analytics** | SQL | Tableau |
+| Skill | Tools |
+|------------|------------|
+| **Data & Analytics** | SQL, Tableau |
 | **Data Visualization** | Tableau, Excel | 
-| **Marketing Analytics** | Social Media Insights | Google Analytics | 
-| **Problem Solver** | Transforming raw data into actionable strategies  
+| **Marketing Analytics** | Social Media Insights, Google Analytics | 
+| **Problem Solver** | Transforming raw data into actionable strategies | 
 
 ---
 
