@@ -1,7 +1,7 @@
-# Hi there 👋
-## Welcome to my SQL portfolio! Here you'll find a curated selection of SQL projects that highlight my journey on working with data. I've enjoyed creating these solutions and hope they demonstrate the power and versatility of SQL.
+# Howdy! 🤠 
+## Welcome to my SQL portfolio! Here you'll find a collection of SQL projects where I turn raw data into real insights. I enjoy solving problems, making data tell a story, and keeping things simple but effective.
 
-Feel free to explore and dont hesitate to reach out if you have any questions!
+Take a look around -- hope you find something interesting!
 
 <!--
 **alyssaduarte/alyssaduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
