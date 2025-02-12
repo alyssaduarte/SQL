@@ -5,17 +5,16 @@ Take a look around -- hope you find something interesting!
 
 ## 🚀 About Me    
 - 👩🏽‍🎓 Education | Bachelors of Health Sciences with a minor in Psychology
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on transitioning my career into data analytics
+- 🌱 I’m currently learning SQL, Tableau, and how to make data tell a story
+- 👯 I’m looking to collaborate on data visualization projects and real-world datasets
+- 💬 Ask me about conspiracy theories (or anything data-related!)
+- ⚡ Fun fact: I have two spleens-more storage for analytics, right?
 
   ## 🛠️ Tools & Skills  
 | Skill | Tools |
 |------------|------------|
-| **Data & Analytics** | SQL, Tableau |
+| **Data & Analytics** | SQL |
 | **Data Visualization** | Tableau, Excel | 
 | **Marketing Analytics** | Social Media Insights, Google Analytics | 
 | **Problem Solver** | Transforming raw data into actionable strategies | 
