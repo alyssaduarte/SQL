@@ -7,7 +7,7 @@ Take a look around -- hope you find something interesting!
 - 👩🏽‍🎓 Education: Bachelors of Health Sciences with a Minor in Psychology
 - 🔭 I’m currently working on transitioning my career into data analytics
 - 👯 I’m looking to collaborate on data visualization projects and real-world datasets
-- ⚡ Fun fact: I have two spleens-more storage for analytics, right?
+- ⚡ Fun fact: I have two spleens-more storage for data, right?
 
   ## 🛠️ Tools & Skills  
 | Skill | Tools |
