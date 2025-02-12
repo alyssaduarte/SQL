@@ -4,7 +4,7 @@
 Take a look around -- hope you find something interesting!
 
 ## 🚀 About Me    
-- 👩🏽‍🎓 Education: Bachelors of Health Sciences with a minor in Psychology
+- 👩🏽‍🎓 Education: Bachelors of Health Sciences with a Minor in Psychology
 - 🔭 I’m currently working on transitioning my career into data analytics
 - 👯 I’m looking to collaborate on data visualization projects and real-world datasets
 - ⚡ Fun fact: I have two spleens-more storage for analytics, right?
@@ -14,7 +14,6 @@ Take a look around -- hope you find something interesting!
 |------------|------------|
 | **Data & Analytics** | SQL |
 | **Data Visualization** | Tableau, Excel | 
-| **Marketing Analytics** | Social Media Insights, Google Analytics | 
 | **Problem Solver** | Transforming raw data into actionable strategies | 
 
 ---
