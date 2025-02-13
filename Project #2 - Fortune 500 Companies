@@ -60,7 +60,7 @@ VALUES
 
 #For this project, I used SQL to query the Fourtune 500 Company data to get information about the different companies.
 
--- List the companies that have $300,000 or more in revenue while also having 20 days or more of paid time off for their employees?
+-- List the companies that have 300 Billion or more in revenue while also having 20 days or more of paid time off for their employees?
 SELECT company_name, revenue, paid_time_off_days
 FROM fortune_companies
 WHERE revenue>= 300.0
