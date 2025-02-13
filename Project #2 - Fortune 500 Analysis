@@ -1,4 +1,4 @@
-#This project utilizes the following Fortune 500 Companies data:
+#This project utilizes the following Fortune 500 data:
 
 CREATE TABLE fortune_companies (
     company_id INTEGER PRIMARY KEY,
@@ -58,7 +58,7 @@ VALUES
     ('Company JJ', 'Manufacturing', 370.0, 3100, 1, 20, 12, 7.6),
     ('Company KK', 'Healthcare', 150.2, 3400, 0, 16, 8, 5.3);
 
-#For this project, I used SQL to query the Fourtune 500 Company data to get information about the different companies.
+#For this project, I used SQL to query the Fourtune 500 data to get information about the different companies.
 
 -- List the companies that have 300 Billion or more in revenue while also having 20 days or more of paid time off for their employees?
 SELECT company_name, revenue, paid_time_off_days
